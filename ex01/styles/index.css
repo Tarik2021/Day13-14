@@ -67,3 +67,6 @@
   text-decoration: none;
   cursor: pointer;
 }
+img:hover {
+  opacity: 0.5;
+}
